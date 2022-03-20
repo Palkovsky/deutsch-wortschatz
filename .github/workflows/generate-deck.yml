@@ -1,0 +1,25 @@
+name: Generate Deck
+on: [push]
+jobs:
+  Generate-Deck:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "The job was automatically triggered by a ${{ github.event_name }} event."
+      - name: Check out repository code
+        uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      - name: Run script
+        run: 
+          python gen.py deutsch-wortschatz.csv deck.apkg
+      - name: Upload Deck
+        uses: actions/upload-artifact@v3
+        with:
+          name: deck
+          path: deck.apkg
+      - run: echo "This job's status is ${{ job.status }}."
