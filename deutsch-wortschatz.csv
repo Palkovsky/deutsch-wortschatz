@@ -106,10 +106,10 @@ ausgaben,wydawać,,
 nehmenn,brać/take/zabierać/zabrać,,
 mitnehmen,wziąć ze sobą,,
 abfahren,odjeżdżać,,
+abgehen,schodzić / odchodzić,,
 weggehen,odchodzić,,
 abkommen,przyjeżdżać,,
 zusamennarbaiten,współpracować,,
-unziehen,przeprowadzać,,
 vorberiten,przygotowywać,,
 zubereiten ,przyrządzać,,
 bekommen,otrzymywać,,
@@ -146,7 +146,7 @@ zahlen,płacić,,
 bezahlen,zapłacić / płaciż za,,nierodzielnie złożony
 sich setzen,siadać,,
 sich fühlen,czuć się,,
-gerade,właśnie/akurat/dopier co,To nie może kosztować więcej niż 16 EUR,On tam właśnie idzie.
+gerade,właśnie/akurat/dopiero co,,
 gleich,identyczny,,
 ganz,cały,,
 eigentlich,właściwie/actually,,
@@ -156,7 +156,6 @@ also,a więc/zatem,,
 einige,niektóre/kilka,,
 jemad,ktoś,,
 vergessen,zapomnieć,Wir es vergessen zu kaufen.,Zapomnieliśmy to kupić
-fast,prawie,Fast alle zwei Studen fahrt ein Zug.,Prawie co dwie godziny jedzie jakiś pociąg.
 gemeinsam,wspólnie,,
 die Tür,drzwi,,
 der Ruhestand,emerytura,,
@@ -176,14 +175,14 @@ abschließen,zamknąć,Schließe diese Arch ab!,
 zumachen,zamknąć,"Denken Sie, dass die Tuir zumachen!",
 widerholen,powtórzyć,,
 schauen,spojrzeć,,
-entlang,wzdłóż,Gehen Sie die StrBe entlang.,
+entlang,wzdłóż,Gehen Sie die StrBe entlang.,Zawsze łączy się z Biernikiem
 die,Welt,Diese Dame kennt ganze Welt. Das ist berühmt,
 berühmt,słynny,,
 die Arsh,dupa,,
 verlassen,opuscic,,
 schicken,wyslac,,
 der Anschluss,połączenie,,
-umsteigen,przesiadać,Er stige um.,On się przesiada
+umsteigen,przesiadać się,Er stige um.,On się przesiada
 der Tag -e,dzień/dni,,
 die Vorlesung,wykład,,
 die Stunde -n,godzina/godziny,,
@@ -193,6 +192,7 @@ dauern,trwać,Die vorlesugn dauret zwei Stunden.,
 danach,potem/than,,
 einladen,zaprosić,,
 das Mal,innym razem,Viellicht anderes Mal?,Może innym razem?
+stimmen,zgadzać,,
 bestimmt,na pewno,,
 doch,przecież,Wir haben heute douch die Beisprechung!,Przecież dzisiaj mamy spotkanie
 der Augenblick,chwila,Einen Augenblick!,Chwileczkę!
@@ -210,12 +210,10 @@ lassen,pozwolić,,
 stehen lassen,zostawić,,
 die Fahrt,jazda/przejazd/itp.,,
 Womit?,Czym?,Womit fahrt er zur Stadt?,
-gegen,przeciw,Wer spielt gegen wen?,Kto gra przeciw komu?
 aufhören,przestać/kończyć się,Du musst dein Verhalten aufhören,Musisz powstrzymać swoje zachowanie
 der Feiertag,święto,,
 der Brief,list,,
 die Wohe,tydzień,,
-ohne,bez,,
 das Öl,olej,,
 der Morgen,poranek,,
 das Wasser,woda,,
@@ -271,7 +269,7 @@ müde,zmęczony/znudzony,Ich bin müde. Ich gehe schlafen. ,"Jestem zmęczony, "
 sehen,widzieć,,
 sehen sich,widzieć się,,
 aussehen,wyglądać,Du siehst müde aus. Willst du schlafen gehen?,
-dein-,,Is das deins?,Czy to twoje?
+schauen,spoglądać,,
 der Schlüssel,klucz/szyfr,,
 lieber,chętniej,,
 die Bahn,pociąg,Wir fahren lieber mit der Bahn. ,Wolimy podróżować pociągiem.
@@ -359,7 +357,8 @@ bekommen,otrzymywać,,nierozdzielnie złożony
 gehen,iść,,
 ausgehen,wychodzić,,rozdzielnie złożony
 biegen,wyginać/chwiać,,
-abbiegen,skręcać,,
+abbiegen,skręcać (w lewo prawo),,
+einbiegen,skręcać (w ulicę),,
 vorhaben,zamierzać,,
 vorn/vorne,z przodu/na przodzie,,
 dagegen ,przeciwko,Sie hat nichts dagegen zu dir zu kommen.,
@@ -455,7 +454,7 @@ finster,mroczny,,
 dauren,trwać (czas),"Zurzeit weiß Ich nicht, wie lange das Projekt dauren wird. ",
 klingen,brzmieć,Es klingt sehr toll.,
 vorschlagen ,proponować,Das was du vorschlägst gefällt mir.,
-mieten,wynajmować,,
+mieten,wynajmować (od kogoś),,
 zeigen,pokazywać,Was hast du ihr gezeigt?,
 anzeigen,donosić/zawiadamiać,,
 allein,sam/sama,"Renate war allein, deshalb geht sie mit Max ins Kino.",
@@ -479,7 +478,66 @@ brav,grzeczny,,
 stören,przeszkadzać,,
 gekommen,przychodzić,,
 kriegen ,dostawać,,synonim bekommen
-außer,oprócz (przyimek),,zawsze z Dativem
+außer,oprócz (przyimek),,Zawsze z Dativem
 das Wortschatz,słownictwo,,
 die Datei,plik,,
 die Beschreibung,opis,,
+bis,aż / do / aż do,"Ich habe Zeit bis zum dritten Januar. / Es hat zwei Stunden gedauert, bis sie fertig war.",Zawsze z Biernikiem
+für,"dla, na, za",,Zawsze z Biernikiem
+ohne,bez,Ich kann nicht ohne dich leben.,Zawsze z Biernikiem
+duruch,przez,,Zawsze z Biernikiem
+gegen,przeciwko / wbrew / około (godzina),Wer spielt gegen wen? / Ich komme gegen 9 Uhr. / Ich habe nichts gegen dich.,Zawsze z Biernikiem
+um,dookoła / o (godzinie),Wir sitzen um den Tish.,
+die Hilfe,pomoc,,
+schwachsinnig,pierdolnięty,,
+ledig,wolna/single,"Sabine ist ledig, weil sie schwachsinnige ist.",
+das Hof,podwórze,Andrzej hat Dawid auf dem Hof getroffen.,
+die Ferien,wakacje (l.mn),Was hast du in den Ferien gemacht?zz,
+austragen,roznosić,,
+das Zeitschrift,czasopismo,Ich habe Zeitschrifen ausgetragen.,
+gebraucht,używany,,
+genung,dość/wystarczajco,,
+gefährlich,niebezpieczny,,
+Einvernehmen!,zgoda,,
+neugierig,ciekawy/ciekwaski/wścibski (curious),,
+brennen,płonąć/palić się,,
+alle (przym. pot.),skończyło się,Die Benzin is alle.,Benzyna się skończyła.
+irgendwo,gdzieś / gdziekolwiek,,
+schaffen,"osiągać, dopiąć swego",Schaffst du es noch? / Ich schaffe es punktlich zu sein.,Can you still do it? / I'm able to make it on time.
+erschaffen,stworzyć,Der Gott hat die Walt erschaffen..,
+beschaffen,to get sth for someone,"Ich beschaffe dir das Geld, keine Sorge!",
+anschaffen,to prostitute yourself / to obtain / to acquire,,
+irre,błędny,"..., wenn ich mich nicht irre.","..., o ile się nie mylę."
+damals,wtedy,,
+fast,prawie,Fast alle zwei Studen fahrt ein Zug.,Prawie co każde 2 godziny jeździ pociąg.
+verändern,zmienić,,
+allerhand,sporo/wiele,,
+trotzdem,mimo to,,Szyk prosty
+obwohl,mimo że,,
+teilnehmen,uczestnićzyć/brać udział/uczestnik/abonent,Ich habe an einem Sprachkurs teilgenommen.,
+anfangs,początkwo,Anfangs habe Ich wenig verstanden.,
+wenig,mało / niewiele,,
+benehmen,zachowywać,,
+überall,wszędzie,,
+(sich) verändern,zmieniać (się),,
+(sich) irren,mylić (się),,
+jobben,pracować dorywczo,,
+tanken,tankować,,
+verpassen,"przegapiać, spóźniać się",,
+aufwachen,budzić się,,Rozdzielnie złożony
+einschlafen,zasypiać,,Rozdzielnie złożony
+umziehen,przeprowadzać się / przebierać się,,
+ziehen,przeprowadzać się,,
+das Flughafen,lotnisko,,
+fertig,gotowy,,
+aufsetzen,sporządzać / nastawiać (np. wodę na herbatę),"Wenn du Tee willst, setze ich das Wasser auf.",
+verschieden,różny / rozmaity,"Wenn Karin in die Stadt geht, spricht sie mit verschieden Leuten.",
+mutig,odważny,,
+blühen,kwitnąć,,
+fremd,obcy,,
+der Zauber,czary,,
+zaubern,czarować,Der Urlabmensch hat dein Walt gezaubert.,
+die Magie,magia,,
+fest,silny,,Synonim stark/kräftig
+aufmachen,otwierać,Mach die Augen auf!,Synonim öffnen
+lächeln,uśmiechać się,,
