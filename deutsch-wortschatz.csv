@@ -11,10 +11,11 @@ gebrauchen,używać,,
 suchen,szukać/poszukiwać,,
 besuchen,odwiedzić,,
 besichtigen,zwiedzać,,
-bleiben,zostać,,
+bleiben,zostać,"Ich will nicht einer dieser Leute sein, die nur bleiben, ohne etwas zu tun.",
 jeden [Tag/Stunde/...],co [dziennie/godzine/...],,
 schon,już/already,,
 gern,chętnie,,
+ungern,niechętnie,Ich schwime ungern.,
 manschmal,sometimes,,
 heute,dzisiaj,,
 gestern, wczoraj,,
@@ -62,6 +63,7 @@ arbaiten,pracować,,
 arbaiten bei,pracować w,Bei wem arbaitest du?,
 warten,czekać,,
 warten auf,czekać na,Worauf wartest du so lange?,
+erwarten,oczekiwać,Andrzej erwaltet ein Anruf von seine Mutter.,
 telefoniren,dzwonić,,
 telefoniren mit,dzwonić do,Mit wem telefonirest du?,
 wissen,wiedzieć,,
@@ -93,10 +95,12 @@ weil,"bo, bowiem, gdyż, ponieważ",,
 leider,niestety,Wir könnenleider nicht komment.,
 Du kannst das nicht.,Ty tego nie potrafisz.,,
 erkranken,zachorować,,
-etwas,coś,,
+etwas / ein wenig / ein bisschen,coś / trochę,Ich brauche (etwas / ein wenig / ein bisschen) Salz.,Potrzebuję trochę soli.
 nehmen,przyjmować (np. leki),Medikamente nehmen,
 das Tier,zwierze,,
-ruhig,spokojny,,
+leise,"cichy (głos, muzka, dźwięk)",,
+ruhig,"cichy (dom, wieczór, życie)",,
+laut,głośny,,
 derselben,ten sam/tej samej itp.,,
 aufräumen,sprzątać,,
 zumachen,zamykac,,
@@ -113,7 +117,8 @@ zusamennarbaiten,współpracować,,
 vorberiten,przygotowywać,,
 zubereiten ,przyrządzać,,
 bekommen,otrzymywać,,
-entscheiden,decydować,,
+entscheiden über,decydować o,Wer entscheidet über die Hohe unserer Gehälter?,Kto decyduje o wysokości naszych pensji?
+entscheiden sich für,decydować się na,Anna hat sich für ein Studium im Ausland entschieden.,
 erziehen,wychowywać,,
 missachten,lekceważyć,,
 bringen,przynieść,,
@@ -121,7 +126,7 @@ mitbringen,przyniesć ze sobą,,
 verbringen,spędzać,,
 hinbringen,zawieść,,
 empfehlen,polecać,,
-achten,zwracać na coś uwagę,,
+achten,poważać / szanować / zwracać na coś uwagę,,
 suche,szukać,,
 erzählen,oppowiedzieć,,
 verstehen,rozumnieć,,
@@ -136,7 +141,9 @@ ganz,całkiem/cały/całkowity,,
 zurest,najpierw,,
 endlich,finally,,
 einfach,prosty/łatwy,,
-schwer,trudny,,
+schwerig,trudny,,
+leicht,lekki,,
+schwer,ciężki,,
 wening,trochę,,
 dabei,przy tym,Unsere Oma hilfen mir dabei.,Nasza babcia pomogła mi przy tym
 drüben,po tamtej stronie,,
@@ -156,7 +163,7 @@ also,a więc/zatem,,
 einige,niektóre/kilka,,
 jemad,ktoś,,
 vergessen,zapomnieć,Wir es vergessen zu kaufen.,Zapomnieliśmy to kupić
-gemeinsam,wspólnie,,
+gemeinsam,wspólny,,
 die Tür,drzwi,,
 der Ruhestand,emerytura,,
 die Luft,powietrze,,
@@ -165,21 +172,22 @@ die Adresse,adres,,
 das Land,wieś,,
 die Leute,ludzie,,
 hinkommen,get there/dojść,,
-meinen (czasownik),myśleć,,
+meinen (czasownik),"myśleć (to think, to mean)",,
 erinneren,przypominać/remember,,
 angeblich,podobno,,
 wahr,prawda,Ist es wahr?,Czy to prawda?
 weit,daleko,,
-ziemlich,dosyć,,
+ziemlich,dosyć / raczej,Ich fühle mich ziemlich schlecht.,Czuje się raczej słabo.
 abschließen,zamknąć,Schließe diese Arch ab!,
 zumachen,zamknąć,"Denken Sie, dass die Tuir zumachen!",
+erholen,odzyskiwać / wypoczywać,,
 widerholen,powtórzyć,,
-schauen,spojrzeć,,
+schauen,spoglądać,,
 entlang,wzdłóż,Gehen Sie die StrBe entlang.,Zawsze łączy się z Biernikiem
 die Welt,świat,,
 berühmt,słynny,Diese Dame kennt ganze Welt. Das ist berühmt,
 die Arsh,dupa,,
-verlassen,opuscic,,
+verlassen,porzucić / opuszczać,,
 schicken,wyslac,,
 der Anschluss,połączenie,,
 umsteigen,przesiadać się,Er stige um.,On się przesiada
@@ -191,15 +199,14 @@ die Sekunde -n,sekunda/sekudy,,
 dauern,trwać,Die vorlesugn dauret zwei Stunden.,
 danach,potem/than,,
 einladen,zaprosić,,
-das Mal,innym razem,Viellicht anderes Mal?,Może innym razem?
-stimmen,zgadzać,,
-bestimmt,na pewno,,
-doch,przecież,Wir haben heute douch die Beisprechung!,Przecież dzisiaj mamy spotkanie
+das Mal,raz,Viellicht anderes Mal? / Wann hast du das letzte Mal etwas bereut?,Może innym razem? / Kiedy ostatnim razem czegoś żałowałeś?
+stimmen,zgadzać / nastrajać,,
+bestimmt,określony / pewny / zdecydowany / z pewnością / zdecydowanie,,
 der Augenblick,chwila,Einen Augenblick!,Chwileczkę!
 Wommit?,Czym?,,
 Welcher?/Welche?/Welches?,Który?/Która?/Ktróre?,,
-stellen,postawić,"Mutter, werden sie mich in die Suschline stellen?","Mother, will they put me in the fabric line?"
-vorstellen,przedstawić,,
+stellen,postawić / ustawić,"Mutter, werden sie mich in die Suschline stellen?","Mother, will they put me in the fabric line?"
+vorstellen,przedstawić / prezentować / wyobrażać sobie,Heute werde Ich dir  die 100 wichtigsten Verben vorstellen.,Zaprezentuję Ci dzisiaj 100 najważniejszych czasowników.
 sich vorstellen,przedstawiać się,Darf ich mich vorstellen ?,
 befinden,orzec/postanowić,,
 sich befinden,znajdywać się,,
@@ -207,11 +214,11 @@ aufwachen,budzić się,,
 spät,późno,,
 früh,wcześnie,Ich wache jeden Tag um neun Uhr auf.,
 lesen,czytać,,
-lassen,pozwolić,,
+lassen,pozwolić / kazać / zlecić / zostawiać (coś),"Ich habe das vergessen, weil vermutlich Ich das zu Hause gelassen habe.", + Akk
 stehen lassen,zostawić,,
 die Fahrt,jazda/przejazd/itp.,,
 Womit?,Czym?,Womit fahrt er zur Stadt?,
-aufhören,przestać/kończyć się,Du musst dein Verhalten aufhören,Musisz powstrzymać swoje zachowanie
+aufhören,przestać / kończyć się (to stop),Du musst dein Verhalten aufhören,Musisz powstrzymać swoje zachowanie. / Rozdzielnie złożony
 der Feiertag,święto,,
 der Brief,list,,
 die Wohe,tydzień,,
@@ -237,7 +244,7 @@ der Laden,sklep/lokal/interes,,
 laden (czas),ładować,,
 fallen,spadać,,
 gefallen (czas),podobać się,Das Resteurant hier geffalen mir nicht.,
-anrufen,zadzwonić,Wann kann ich Sie anrufen? ,
+anrufen,dzwonić / wołać,Wann kann ich Sie anrufen? ,
 der Ausweis,legitymacja/dowód osobisty/ID,,
 automatisch,automatyczny,,
 der Preis,cena,,
@@ -248,7 +255,7 @@ um die Ecke,za rogiem,,
 "die Toilette, -en",toaleta,,
 kümmeren sich,troszcyć się,,
 enden,kończyć,,
-fehlen,zabraoknąć/brakować/niebecnym być,"Herr Müller ist nicht da, er fehlt schon seit drei Tagen. ",
+fehlen,zabraoknąć/brakować/niebecnym być/dolegać,"Herr Müller ist nicht da, er fehlt schon seit drei Tagen. ",
 fühlen,czuć się,,
 die Dusche,prysznic,,
 der Ablug,wylot/odlot,,
@@ -278,7 +285,7 @@ die Aufgabe,zadanie/obowiązek,Ich muss zu meine Aufgaben zurückkommen.,
 leider ,niestety,Ich bin leider ein Meter sechzehn.,
 der Arzt,lekarz,Ich muss zum Arzt gehen.,Muszę iść do lekarza.
 Ich muss jetzt Schluss machen. ,Muszę skończyć teraz,,
-wichtigen,ważny/istotny,,
+wichtigen,ważny/istotny,"Das is wichtig, zu wissen.",
 "die Information, -en",Informacja/informacje,Wir haben hier wichtige Informationen für Sie. ,Mamy dla Ciebie ważną infoirmację
 jemad,ktoś,"Jemand, dan Ich kenne.",Ktoś kogo znam.
 jeder/jede/jedes,każdy/każda/każe,,
@@ -302,7 +309,7 @@ der Reiseführer,przewodnik/pilot/przewodnik turystyczny,Unser Reiseführer hei�
 kennenlernen,poznać/poznawać,,
 kennenlernen sich,poznawać się,Ich möchte dich besser kennenlernen.,
 mal,skrócone 'einmal' => czyli raz,Komme mal hier!,Zwykle używane żeby prośbę uczynić uprzejmiejszą.
-probieren,próbować,,
+probieren,próbować,,"Zwykle dotyczy próbowania np. potraw, picia albo np. butów w sklepie."
 hören,słuchać/słyszeć,Ich habe das Lied schon mal gehört. ,Już słyszałem tę piosenkę.
 zuhören,słuchać,Hör mir zu!,
 erlauben,pozwolić/pozwalać,Rauchen ist hier nicht erlaubt.,Palenie jest tutaj niedozwolone.
@@ -318,14 +325,15 @@ der Thema,temat,,
 sich freuen auf,"cieszyć się na (z czegoś, co będzie w przyszłości",,
 sich freuen über,"cieszyć się na (z czegoś, zdażenie miało miejsce)",Ich freue mich uber deinen Anruf.,Cieszę sie z Twojego telefonu.
 wieder,znowu/ponownie,Ich habe wieder Zeit.,Znów mam czas
+die Vorschlag,propozycja,,
 vorschlagen,zaproponować,"Ich schlage vor, wir gehen ins Kino.",Proponuję żebyśmy poszli do kina.
 die Lust,ochota/chęcia,,
-abholen,przyjechać/odebrać,,
+abholen,odebrać,Kannst du mich vom Flughafen abholen?,rozdzielnie złożony
 niemand,nikt,,
 niemand gehörend,niczyj,,
 entspannen,odprężać/rozluźniać,,
 entspannen sich,zrelaksować się,,
-besonders,zwłaszcza szczególnie/bardzo,"Ich mag Films, besonders Komödien",
+besonders,zwłaszcza szczególnie / bardzo,"Ich mag Films, besonders Komödien",
 egal,obojętne,"Es ist mir egal. / Es ist mir egal, wem mit I tanze. / Deine Kinder sind mir egal. / ","I don't care / I don't care, who I dance with. / I don't care about your kids."
 verschwendung,waste,Ist das alles nur Zeitverschwendung?,Is it just a waste of time?
 selbst/selber,sam/sami/samo/itp.,,selbst i selber znaczą to samo. selber bardziej potoczne
@@ -333,13 +341,13 @@ die Zukunft,przyszłość,,
 die Wort,słowo,,
 die Antwort,odpowiedź,,
 der Gast,gość,Ein Fahrgast will beim Fahrer einen Fahrschein kaufen.,Pasażerka chce kupić bilet u kierowcy.
-anfangen,rozpoczynać/zaczynac,,
+anfangen,rozpoczynać/zaczynac,,aufhören to wyraz bliźniaczy oznaczający zaprzestanie
 hoffentlich,miejmy nadzieję/hopefully,Hoffentlich ein Krieg wird nicht anfangen.,
 dauern,trwać,"Ja, aber es dauret immer so lange.",
 tauschen,wymieniać,,
 hereinkommen,wejść/wchodzić,,
 eilig,pospiesznie/pospiesznie,Gestern waren wir es sehr elig.,
-günstig,korzystnie,Man konnte beim Fahrer einen Fahrschein günstig kaufen.,
+günstig,korzystnie / dogodny,Man konnte beim Fahrer einen Fahrschein günstig kaufen.,
 das Geschäft -e,interes/biznes/firma/działalność,,
 die Gelegenheit,okazja/sposobność,,
 der Wagen,wóz,,
@@ -358,19 +366,20 @@ bekommen,otrzymywać,,nierozdzielnie złożony
 gehen,iść,,
 ausgehen,wychodzić,,rozdzielnie złożony
 biegen,wyginać/chwiać,,
-abbiegen,skręcać (w lewo prawo),,
+abbiegen,skręcać (w lewo prawo),Die straße biegt nach links ab.,Droga sklręca w lewo.
 einbiegen,skręcać (w ulicę),,
-vorhaben,zamierzać,,
+vorhaben,zamierzać,"Wir haben vor, dieses Buch bald zu lesen.",
 vorn/vorne,z przodu/na przodzie,,
 dagegen ,przeciwko,Sie hat nichts dagegen zu dir zu kommen.,
 dagegen sein,być przeciwko,,
 laufen,biegać,,
 besonderes,szczególnie/zwłaszcza,,
-schenken,dać prezent,,
+schenken,podarować / oferować,"Trägst du den Mantel, den dein Vater dir geschenkt hat.",
+verlieren,przegrać / gubić / stracić ,,
 hoffen,mieć nadzieję,"Ich hoffe, meine Tashe nicht zu verlieren.",Mam nadzieję nie zgubić mojej torebki
 froh,wesoły,,
 verwenden,używać/stosować,Wie verwende ich meinen Braun Rasier?,
-verfügbar,dostępny,,
+verfügbar,dostępny,Meine App ist jetzt im Google Play und im Apple Store verfügbar.,
 a̱u̱sgewählt,wybrany,Es is nur fur a̱u̱sgewählt Modelle verfügbar.,
 geil,cool/fainy/odlotowy/...,,
 lernen,uczyć,,
@@ -401,6 +410,7 @@ aufreißen,otwórz,Reiß mein Herz auf und du wirst sehen.,Otwórz moje serce i 
 erbärmlich,podły,,
 schreien,krzyczeć,,
 der Schreie,krzyk,,
+die Gesicht,twarz,"Sie diskutieren so heftig, dass sie rot im Gesicht werden.",
 von Angesicht zu Angesicht,twarzą w twarz,,
 die Wunde,rana,,
 öffnen,otworzyć,,
@@ -408,7 +418,7 @@ die Vergangenheit,przeszłość,"Die Wunde, die sich in der Vergangenheit geöff
 drängen (sich),ponaglać/zachęcać/zmuszać,,
 weitermachen,pracować dalej,,
 die Stück,kawałek,,
-versuchen,próbować/usiłować,,
+versuchen,próbować/usiłować,,"W sensie usiłować, starać się."
 sinnlos,bezsensowny,Das is sinlos!,
 die Lüge -n,kłamstwo,,
 die Wahrheit -en,prawda,Vergiss weder die Wahrheiten noch die Lügen,Nie zapomnij o prawdach i kłamstwach
@@ -417,6 +427,7 @@ jemals ,kiedykolwiek,"Wage es nicht, sie jemals zu vergessen",NIgdy nie waż si�
 beginnen,zaczynać,Es beginnt jetz zu verblassen,Zaczęło się zacierać
 die Unterschied ,różnica,,
 einschüchtern,zastraszyć,,
+der Unterschied,różnica,,
 unterscheiden,rozróżnić,Ich kann die Wahrheit von den Lugen unterscheiden. / Ich unterscheide zwischen Wahrheit und Luge.,
 das Hindernis,przeszkoda,,
 aufnehmen,przyjmować,,
@@ -438,25 +449,25 @@ neben,obok/przy,,
 gemütlich,przytulny/wgodny,,
 der Idee,pomysł,,
 degegen,przeciwko,Ich habe nichts degegen deinem Idee.,
-sicher,pewny/przekonany,"Ich bin mir sicher, dass Ich ihn nicht treffen. / Ich bin mir sicher ihn noch zu treffen.",
+sicher,pewny / przekonany,"Ich bin mir sicher, dass Ich ihn nicht treffen. / Ich bin mir sicher ihn noch zu treffen.",
 abreisen,odjeżdżać/wyjeżdżać,Ich reise am Samstag ab.,
 der Ausländer,obcokrajowiece,,rodzielnie złożony
 einschreiben,wpisywać sięo,,rozdzielnie złożony
 aufschreiben,napisać,,nierozdzielnie złożony
-beschreiben,opisać,,
+beschreiben,opisać,Michael beschreibt die perfekte Tasse Kaffe.,
 empfehlen,rekomendować (polecać),Konnen Sie mir viellicht gut Resteurant empfehlen?,
 raten,radzić komuś,"Ich rate dir, dass du besser mit diese Leute nicht treffen.",
 derzeit / zurzeit,obecnie,Es gibt zurzeit keinen Zimmer frei.,
 die Anziehsachen,ubrania,,
-auszehen,zdejmować,Ziech deine Anziehsachen jetz aus! / Ziech dich jetz aus.,
 hell,jasny/widny,,
 dunkel,ciemny,,
 finster,mroczny,,
 dauren,trwać (czas),"Zurzeit weiß Ich nicht, wie lange das Projekt dauren wird. ",
 klingen,brzmieć,Es klingt sehr toll.,
-vorschlagen ,proponować,Das was du vorschlägst gefällt mir.,
 mieten,wynajmować (od kogoś),,
 zeigen,pokazywać,Was hast du ihr gezeigt?,
+ziehen,ciągnąć,,
+anzehen,wkładać / zakładać (np. ubranie),,
 anzeigen,donosić/zawiadamiać,,
 allein,sam/sama,"Renate war allein, deshalb geht sie mit Max ins Kino.",
 besetzen,zajmować,"Er sucht einen Platz, aber alle Platze sind besetzet.",
@@ -471,14 +482,14 @@ wechseln,zamienić,Leider haben Sie eine Arbeitsplatz gewechselt.,
 sich sehen nach,tęsknić za,Seine Tochter sehnt sich besonders nach ihrem Vatter.ess,
 die Lage,położenie,,
 wachen,czuwać,,
-zunehmen,tyć,,
-abnehmen,chudnąć (tracić na wadze),,
+zunehmen,tyć / rosnąć,,
+abnehmen,chudnąć (tracić na wadze) / zmniejszać (się),,
 hässlich,brzydki,,
 schlau,chytry/sprytny,Ich halte mich für schlauen Mann.,
 brav,grzeczny,,
 stören,przeszkadzać,,
 gekommen,przychodzić,,
-kriegen ,dostawać,,synonim bekommen
+kriegen ,dostawać / łapać,,synonim bekommen
 außer,oprócz (przyimek),,Zawsze z Dativem
 das Wortschatz,słownictwo,,
 die Datei,plik,,
@@ -494,6 +505,7 @@ schwachsinnig,pierdolnięty,,
 ledig,wolna/single,"Sabine ist ledig, weil sie schwachsinnige ist.",
 das Hof,podwórze,Andrzej hat Dawid auf dem Hof getroffen.,
 die Ferien,wakacje (l.mn),Was hast du in den Ferien gemacht?zz,
+tragen,nosić / dźwigać,,
 austragen,roznosić,,
 das Zeitschrift,czasopismo,Ich habe Zeitschrifen ausgetragen.,
 gebraucht,używany,,
@@ -504,14 +516,14 @@ neugierig,ciekawy/ciekwaski/wścibski (curious),,
 brennen,płonąć/palić się,,
 alle (przym. pot.),skończyło się,Die Benzin is alle.,Benzyna się skończyła.
 irgendwo,gdzieś / gdziekolwiek,,
-schaffen,"osiągać, dopiąć swego",Schaffst du es noch? / Ich schaffe es punktlich zu sein.,Can you still do it? / I'm able to make it on time.
+schaffen,osiągać / dopiąć swego,Schaffst du es noch? / Ich schaffe es punktlich zu sein.,Can you still do it? / I'm able to make it on time.
 erschaffen,stworzyć,Der Gott hat die Walt erschaffen..,
 beschaffen,to get sth for someone,"Ich beschaffe dir das Geld, keine Sorge!",
 anschaffen,to prostitute yourself / to obtain / to acquire,,
 irre,błędny,"..., wenn ich mich nicht irre.","..., o ile się nie mylę."
 damals,wtedy,,
 fast,prawie,Fast alle zwei Studen fahrt ein Zug.,Prawie co każde 2 godziny jeździ pociąg.
-verändern,zmienić,,
+(ver)ändern,zmienić,"Ich würde die Welt besser verändern, wenn ich nur könnte.",
 allerhand,sporo/wiele,,
 trotzdem,mimo to,,Szyk prosty
 obwohl,mimo że,,
@@ -524,21 +536,24 @@ benehmen,zachowywać,,
 (sich) irren,mylić (się),,
 jobben,pracować dorywczo,,
 tanken,tankować,,
-verpassen,"przegapiać, spóźniać się",,
+verpassen,przegapiać / spóźniać się,,
 aufwachen,budzić się,,Rozdzielnie złożony
 einschlafen,zasypiać,,Rozdzielnie złożony
 umziehen,przeprowadzać się / przebierać się,,
 ziehen,przeprowadzać się,,
 das Flughafen,lotnisko,,
-fertig,gotowy,,
+fertig,gotowy (np. obiad),"Jest też bereit, który mówi o np. byciu zdecydowanym/gotowym do wyjścia.",
+bereit,gotowy (np. do drogi) / zdecydowany,"Jest też fertig, który mówi o np. gotowym obiedzie.",
 aufsetzen,sporządzać / nastawiać (np. wodę na herbatę),"Wenn du Tee willst, setze ich das Wasser auf.",
 verschieden,różny / rozmaity,"Wenn Karin in die Stadt geht, spricht sie mit verschieden Leuten.",
-mutig,odważny,,
+mutig,odważny,Wir haben verschieden interaktive Videogeschichten vorbereitet.,
 blühen,kwitnąć,,
 fremd,obcy,,
 der Zauber,czary,,
 zaubern,czarować,Der Urlabmensch hat dein Walt gezaubert.,
 die Magie,magia,,
+stark,silny,,
+schwach,słaby,,
 fest,silny,,Synonim stark/kräftig
 aufmachen,otwierać,Mach die Augen auf!,Synonim öffnen
 lächeln,uśmiechać się,,
@@ -551,10 +566,12 @@ ewig,wieczny,,
 sauer sein (potocznie),być wściekły/ zdenerwowany,Ich war ganz schön sauer auf ihn.,Byłem całt na niego wściekły.
 erzählen,opowiadać,Renate erzählt ihrer Freundin.,Renata opowiada swojej przyjaciółce.
 das Ankunft,przybycie,,
+merken,"zauważać / zdać sobie sprawę (to notice, to realize)",,
 bemerken,zauważyć,,
 übersehen,przeoczyć / szacować / oceniać,,
 vertrauen,ufać,,
-behalten,zatrzymać / keep,,
+halten,trzymać (keep) / zatrzymać,,
+behalten,zatrzymać (keep) / zachowywać,,
 eben,równy / właśnie,,
 die Schuld,wina,"Wissen Sie, das ist meine Schuld.","Wie Pan, to jest moja wina."
 achten,poważać / szanować,,
@@ -581,10 +598,237 @@ letzte,ostatni,,
 dienstlich,służbowo,,
 geschäftlich,służbowy,,
 selbstverständlich,oczywiście / zrozumiale,,
-wahrend,"podczas, kiedy (spójnik)",,
 ursprünglich,początkwe / pierwotne,,
 anstatt,zamiast,anstatt etw zu tun,zamiast coś robić
-übrigens,poza tym / zresztą,Der Berliner Dom is übrigens das langste Bauwerk Deutschlands.,Katedra berlińska jest zresztą najdłużej budowaną budowlą w Niemczech.
+übrigens,poza tym / zresztą (by the way),Der Berliner Dom is übrigens das langste Bauwerk Deutschlands.,Katedra berlińska jest zresztą najdłużej budowaną budowlą w Niemczech.
 teilnehmen,brać w czymś udział / uczestniczyć w czymś,Fast alle Einwohner der Stadt nehmen daran teil.,Prawie wszyscy mieszkańcy miasta biorą w tym udział.
 der Einwoher,mieszkaniec,Fast alle Einwohner der Stadt nehmen daran teil.,Prawie wszyscy mieszkańcy miasta biorą w tym udział.
 sich verlieben,zakochać się,,
+ausdrücken,wyrażać,,
+atmen,oddychać,,
+fressen,pożerać / żreć,Auf der Party habe ich mich voll gefressen.,Na imprezie się nażarłem.
+etwa,około,Es war etwa zwanzig Leute.,Było około dwudziestu ludzi.
+beitragen,przyczyniać się,Alle sollten zum Umweltschutz beitragen.,rozdzielnie złożony
+weh,boleć,Ich habe Schnupfen and mein Kopf tut mir auch weh.,Mam katar i także boli mnie głowa.
+flach,płaski,,
+tief,głęboki,Atmen Sie bitte tief!,Proszę oddychać głęboko!
+verschreiben,zapisać / wypisać,,
+der Mahlzeit,posiłek,,
+solcher / solche / solches,taki / taka / takie,,
+die Dinge,rzecz,,
+vermutlich,prawdopodobnie,,
+in erster Line,głównie,,
+die Kleid,sukienka,,
+eng,wąski,,
+weit,szeroki / długi / deleko,,
+dick,gruby,,
+gesund,zdrowy,,
+rutschen,ślizgać się,Ich tusche duruch die Wohnung auf dem Topf.,Ślizgam się przez mieszkanie na garnku.
+die Klamotten,ciuchy,,
+bunt,kolorowy,,
+die Person,osoba,,
+bekannt,znany / znajomy (przymiotnik),Doda is am bekanntesten Sängerin auf dem Welt.,
+die Sänger,piosenkarz,,
+arm,biedny / ubogi (człowiek),ärmlicher Wortschatz,ubogie słownice
+die Hemd,koszula,Ist die schwarze Hemd weiter als braune?,
+die Bluse,bluzka,,
+meistens ,przeważnie / na ogół / zwykle,Ein moderner Anzug is meistens teurer als unmoderner.,Modny garnitur jest przeważnie droższy niż niemodny.
+der Anzug,garnitur,Ein moderner Anzug is meistens teurer als unmoderner.,Modny garnitur jest przeważnie droższy niż niemodny.
+je,kiedykolwiek,"Doris hat die teuersten Schuhe bekommen, die sie je hatte.","Doris dostała najdroższe buty, jakie kiedykolwiek miała."
+dumm,głupi,Dumm wie Brot,Głupi jak but (potocznie)
+die Übung,ćwiczenie,Ich habe mein Lieblingsübung gemacht - Kniebeug,
+abheben,startować,,
+der Vogel,ptak,,
+ausreichen,wystarczyć,,
+verreisen,podróżować (np. pociągem) / wyjeżdżać (np. do włoch),,Łączy się z sein w Perfekt
+der Fall,przypadek / upadek,auf jeden Fall,w każdym przypadku
+der Unfall,wypadek / katastrofa,,
+wenn,kiedy,"If Ich hungrig wäre, ich würde zum Kühlschrank gehen.",używamy przy czynności rutynowych (coś jak Present Simple)
+als,kiedy,"Als Ich gestern im Kino ware, habe ich Anna getroffen.",używamy przy czynności jednorazowej
+solange,dopóki,,
+sooft,ilekroć / jak często,"Sooft Anna den Patient besucht, bringt sie Schokolade mit.",
+nachdem,po tym jak,,
+sobald,skoro tylko / zaraz po tym jak,"Sobald er Fahrerlaubnis genommen hat, hatte er ein Autounfall.",
+seitdem / seit,odkąd,,
+bevor,zanim,"Bevor ich war reich, war ich arm.",
+bis,aż,,
+ehe,zanim,,
+während,podczas gdy,"Während ich auf dem Bus gewartet habe, habe ich mit Eva telefoniert.",
+anmachen,"włączyć (radio, telewizor, światło)",,
+ausmachen,"wyłączać (radio, telewizor, światło)",,
+das Licht,światło,"Bevor du das Haus verlasst, mach bitte das Licht aus.",
+der Zaun,płot,"Während der Opa den Zaun repariert, spielt die Oma mit dem Enkelkind.",
+erreichen ,osiągnąć / sięgnąć,"Sie hat den Mann den ganzen Tag angerufen, bis sie ihn endlich erreicht hat.",
+vorher,przedtem,,
+regelmäßig,regularnie,"Ich traniere regelmäßig, seitdem habe ich keine Kopfschmerzen mehr.",
+das Krankenhaus,szpital,"Du musst im Krankenhaus bleiben, solange du völlig gesund wirst.",
+ausziehen,rozbierać / zdejmować (ubranie),,ausziehen sich -> wyprowadzać się
+verwirrend,mylący (przymiotnik),Diese Wörter können manchmal verwirrend für euch sein.,Czasem te słowa mogą być dla was mylące (confusing).
+übersetzen,tłumaczyć,,
+verbinden,łączyć,,
+tatsächlich,faktycznie / rzeczywiście (actually),,
+bedeuten,oznaczać,,
+beschäftigt,zajęty (busy),,
+ähnlich,podobny,,
+wählen,wybierać (choose),,
+Spaß / Scherz,żart,,
+genau,dokładnie,"Wie spät ist es genau?",
+sauber,czysty,,
+gucken,patrzeć / obserwować,Diese Frau guckt böse.,Ta kobieta wygląda na złą.
+(sich) (an)schauen,wyglądać / spoglądać,Sie schaut ihm fest in die Augen.,
+verschieden ,różne (various),,
+passieren,wydarzać / zdarzyć (to happen),Michael passieren immer lustige Dinge beim Kaffeetrinken.,Zabawne rzeczy zawsze zdarzają się Michaelowi przy picu kawy.
+nennen,nazywać/ nazwać / być nazywanym,,
+führen,prowadzić / dowodzić (to lead / to guide),,
+gewinnen,wygrywać,,
+erklären,wyjaśniać (to explain),,
+feiern,obchodzić / świętować,,
+bauen,budować,,
+entwickeln,opracowywać / rozwijać (to develop),,
+heimlich,potajemnie / sekretnie,,
+planen,planować,,
+übernehmen,przejąć,,
+erinnern (sich),przypomniać (sobie),,
+erkennen,rozpoznować,,
+hassen,nienawidzić,,
+rausrücken,daj! (pot.),,
+der Fresse,gęba / ryj / morda,,
+fürchten,obawiać się,,
+lösen,rozwiązywać (to solve/resolve),,
+ablösen,zastąpić,,
+vermissen,tęsknić,,
+gewöhnen (sich),przyzwyczajać się,gewöhnen (sich) an + Akk,przyzwyczajać się do
+tailnehmen,uczestniczyć,tailnehmen an + Dat,uczestniczyć w
+handelen (sich) um + akk,chodzić o,Es handlet sich hier um eine wichtige Sache.,
+sehen (sich) nach + Dat,tęsknić za,Die Mutter sehnt sich nach ihrem Kind.,
+sorgen für + Akk,dbać o / troszczyć się,"Werden wir dafür sorgen, dass ihr ein Hit seid.","Zadbamy o to, żebyście byli hitem."
+sorgen (sich) um + Akk,martwić się o,Die Eltern sorgen sich um das abwesende Kind.,
+arbeiten an + Dat,pracować przy,Die Gruppe arbeitet fleißig an ihrem Projekt.,
+üblich,normalny / zwykły,Das soll bei Babys ja so üblich sein.,To podobno norma w przypadku dzieci.
+staunen,zdziwion / zdumiony,,
+blass,blady / słaby / nijaki,,
+teilen / aufteilen,dzielić (się),,
+verrück,szalony / wariacki (pot.),,
+einzigartig,jedyny w swoim rodzaju / niezwykle,,
+gelingen,udać się,"Ich hoffe, es gelingt mir.","Mam nadzieję, że mi się uda."
+beneiden um + Akk,zazdrościć czegoś,Ich beneide den amerikanische Schriftsteller um seinen Erfolg.,Zazdroszczę amerykańskiemu pisarzowi jego sukcesu.
+annehmen,przyjmować,,Rozdzielnie złożonu
+anklagen,oskarażać,,
+bescheuerten,głupi / stuknięty / paskudny (pot.),,
+der Ausdruck,zwrot / wyrażenie,,
+der Gesichtsausdruck,wyraz twarzy,,
+bestohlen,okradać,,
+die Drecksau,świnia / drać (pot.),,
+schlagen,uderzyć / bić,,
+gestolpert,potknąć się,,
+brechen,łamać,Der Typ ist gestolpert und hat sich sein Genick gebrochen.,Typ się potoknął i złamał sobie kark.
+verarschen,kpić,,
+der Hintern,tyłek,,
+verursachen,powodować,"Wenn man einen Unfal verursacht, muss man die Polizei benachrichtigen.",
+zufrieden,zadowolony,"Wenn du pünktlich zur Arbeit kommen, ist der Chef zufrieden.",
+der Ziel,Cel,"Wenn du jetzt aufgibst, erreicht du dein Ziel nie.",
+beeilen (sich),spieszyć (się),"Wenn wir uns nicht beeilen, verpassen wir den Bus.",
+streiten (sich),sprzeczać (się),,
+anklagen,oskarżać,,
+(un)schuldig,(nie)winny,,
+bestrafen,karać,,
+der Ergebnis,rezultat / wynik,,
+erzielen,osiągnąć,"Carsten ist so intelligent, dass er das beste Ergebnis erzielt hat.",
+stolz,dumny,,
+unterscheiden,rozróżniać,,
+zittern,drżeć,"Meine Oma ist so alt, dass Ihre Hände beim Essen zittern.",
+nass,mokry,"Er hat stark geregnet, sodass alle durchnässt waren.",
+heftig,silny / gwałtowny / energiczny,,synonim stark
+erschrecken,przestraszyć,,
+geschehen,stać się (np. wypadek),,
+schriftlich,pisemny,,
+das Bestätigung,potwierdzenie,,
+der Mittel,sposób / środek,,np. Lebensmiettel - produkty żywnościowe
+schlank,szczupły,,
+der Mitarbeiter,współpracownik,,
+verständigen (sicu),porozumiewać (się),,
+leihen,pożyczać,,
+vorlesen,czytać,"Das sind die Kinder, denen die Oma jeden Tag Geschichten vorliest.",
+in diesem Fall,w tym przypadku (in this case),In diesem Fall ist besondere Vorsicht geboten.,W takim przypadku wymagana jest szczególna ostrożność.
+"auf keinen Fall",w żadnym wypadku,,
+eigen,własny (own),Auch Kinder dürfen ihre eigene Meinung haben.,Dzieci też mogą mieć własne zdanie.
+weiter,dodatkowy,"Gibt es noch weitere Fragen?","Czy są jeszcze dodatkowe pytania? / weiterer, weitere, weiteres"
+erledigen,wykonywać / załatwiać,,
+die Teil,część,Wir haben die Arbeit nur zum Teil erledigen können.,Mogliśmy wykonać tylko część pracy.
+teilweise,częściowo,,
+wirklich,rzeczywście / naprawdę,Das ist mir wirklich passiert.,To mi się naprawdę przydarzyło.
+jedoch,jednakże (however),,
+im Folgende,"in the following",Im Folgenden werden die Ergebnisse kurz dargestellt.,Wyniki przedstawiono pokrótce poniżej.
+am Ende,ostatecznie / końcowo / at the end,Am Ende kamen bei der Spendenaktion mehr als 5000 Euro zusammen.,
+sowie,as well as / as soon as,"In diesem Hotel gibt es Sauna sowie Whirlpool.",
+richtig,poprawny,Das richtige Ergebnis wusste niemand.,Nikt nieznał poprawnego wyniku.
+der Ergebnis ,wynik / rezultat,,
+in der Woche,during the week,In der Woche vom 17.-23. Juli habe ich Urlaub.,
+dafür,for it,"Ich interessiere mich dafür, wie die Demokratie funktioniert.",
+das Recht,prawo,Nach europäischem Recht ist das verboten.,
+"vor kurzem",ostatio (recently),,
+der Grund,przyczyna / powód,,die Grund to ziemia lub podstawa
+allerdings,though / indeed / certainly,Das ist allerdings sehr wichtig.,Jest to jednak bardzo ważne.
+die Meinung,opinia,nach meiner Meinung,w mojej opini (in my opinion)
+der Art,rodzaj,,die Art -> forma
+traurig,smutny,,
+der Traurigkeit,smutek,,
+der Sinn,sens / cel / zmysł,,
+die Kleidung,odzież,,
+abhängen,zależeć,Das hängt sehr von der Miete ab.,To zależy w dużej mierze od czynszu. / abhängen von + Dat - zależeć od
+je nachdem,zależnie / to zależy,,
+vergleichen,porównywać,,
+sonst,w przeciwnym raze (otherwise),,
+irgendwie,jakoś,,
+erstaunten,dziwić,,
+falls,jesli / jeżeli,,
+festigen,umacniać,,
+verspäten,spóźniać się,,
+ausschalten,wyłączać,,
+verlaufen,przebiegać / gubić się,Wir haben uns in der fremden Stadt verlaufen.,Zgubiliśmy się w obcym mieście.
+vernünftig,rozsądny,,
+eingebaut,wbudowany / wbudowywać,,
+behoben,usunąć,,
+benötigen,potrzebować,,
+abgesehen von,niezależnie od,,
+bisher ,dotąd,,
+beschließen,decydować,,synonim entscheiden
+heben,podnosić / wynosić,,
+Wie immer,as always,,
+verachten,pogardzić,,
+erstellen,sporządzać / przygotować,,
+erschienen,ukazywać / wydawać,,
+retten,ratować,,
+die Reihenfolge,kolejność,,
+entdecken,odkrywać / znajdować,,
+aufgrund von,z powodu (due to),,
+der Körper,ciało,,
+zwar,wprawdzia / mianowicie,,
+genug,wystarczająco,,
+das Bestellung,zamówienie,"Informieren Sie den Kunden über das neue Angebot, sons bekommen wir keine bestellugn.","Poinformuj klienta o nowej ofercie, inaczej nie otrzymamy żadnych zamówień."
+überraschen,zaskoczony / zdziwiony,"Dieses ""nä"", das benutzt man oft, wenn man völlig überrascht ist.",
+absagen,odmówić,"Ich habe ihn eingeladen, aber er hat abgesagt.",
+das Kuchen,ciasto,"Sie kaufen keinen Kuchen, sondern sie backen ihn selbst.",
+"nachdem, ob/wie",zależnie czy/jak,,
+abhängen,zależeć,,
+das Angebot,propozycja / oferta,,
+sammeln ,zbierać (np. znaczki),,
+bereuen,żałować,,
+breit,szeroki,,
+zeichnen,rysować,,
+befehlen,rozkazywać,,
+werben,reklamować,,
+stoßen,popchnąć / popychać,,
+auspacken,rozpakowywać,,
+aussteigen,wysiadać,[aus dem Bus/Zug] aussteigen,wysiadać z [autobusu/pociągu]
+einziehen,wprowadzać,Wann zieht ihr in das neue Haus ein?,Kiedy przeprowadzasz się do nowego domu?
+ausziehen,zdejmować / wyprowadzać,,
+anziehen,zakładać / ubierać,Was ziehst du für den Abend an?,Co zakładasz na wieczór?
+anschauen,oglądać,Ich schaue mir den Krimi heute an.,
+ansehen,oglądać,Ich sehe mir den Krimi heute an.,Oglądam dzisiaj kryminał.
+zusammenfassen,podsumować / streścić,"Marika, fass bitte den Text in ein paar Sätzen zusammen.","Mariko, proszę streść tekst w kilku zdaniach."
+stattfinden,odbywać się,Wo findet das Konzert statt?,
+einschalten,włączać,Schalte bitte den Fernseher ein.,Synonim anmachen
+aufpassen,uważać / pilnować,Sonja passt donnerstags auf ihre kleine Cousine auf.,Sonja opiekuje się swoją małą kuzynką w czwartki.
+anhaben,mieć na sobie,Herr Koch hat heute seinen neunen Anzug an.,Pan Koch ma dziś na sobie swój nowy garnitur.
+wegwerfen,wyrzucać,Warum wirfst du das weg?,Dlaczego to wyrzucasz?
